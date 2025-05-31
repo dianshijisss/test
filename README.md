@@ -20,4 +20,4 @@ python train.py --train-dir path/to/train --val-dir path/to/val --epochs 20 --ou
 python predict.py --model model.pth --num-classes 3 --image test.jpg
 ```
 
-以上命令将在命令行输出预测的类别编号。
+以上命令将在命令行输出预测的类别编号
